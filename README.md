@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**IvanZabelin/IvanZabelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Иван**, и я Python backend разработчик. Я увлекаюсь разработкой веб-приложений, чат-ботов, автоматизацией процессов и жму сотку на 8 раз. Добро пожаловать в мой репозиторий!
 
-Here are some ideas to get you started:
+## Стек технологий:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+  </a>
+</p>
+
+## Что здесь можно найти:
+
+- 📂 **Проекты** на Python и Django
+- 🤖 **Telegram-боты** с использованием библиотеки `aiogram`
+- 📊 Работу с **базами данных** (PostgreSQL, SQLite)
+- 🧪 **Тестирование** с использованием `pytest`
+
+## Контакты
+- <a href="https://t.me/ivanzabelin" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+- 📫 Email: [the.zabelin@gmail.com](mailto:the.zabelin@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
