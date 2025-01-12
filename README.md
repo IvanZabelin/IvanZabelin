@@ -22,4 +22,3 @@
 - <a href="https://t.me/ivanzabelin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-- 📫 Email: [the.zabelin@gmail.com](mailto:the.zabelin@gmail.com)
