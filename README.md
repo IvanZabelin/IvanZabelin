@@ -13,10 +13,6 @@
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanZabelin&hide_border=true&count_private=true&show_icons=true&theme=default" alt="IvanZabelin" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanZabelin&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default" alt="IvanZabelin" align = "center"/></p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanZabelin&theme=default&hide_border=true" alt="IvanZabelin" />
-</p>
-
 
 ## Контакты
 - <a href="https://t.me/ivanzabelin" target="_blank">
