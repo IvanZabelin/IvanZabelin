@@ -1,10 +1,10 @@
-# Привет! 👋
+# 👋Yo!
 
-Меня зовут **Иван**, и я *Python Developer*. Я увлекаюсь разработкой веб-приложений, чат-ботов, автоматизацией процессов, проявляю интерес по работе с базами данных, аналитикой и машинным обучением. 
+I’m Ivan, your go-to Python badass—crafting killer web apps, chatbots, and slick automations. Think data’s scary? I’ll tame it. ML? Bring it on.
 
 ## *Welcome to my repository!*
 
-## Стек технологий:
+## 💥 Tech Arsenal
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
 <br>
 
 
-## Контакты
+## Hit me on Telegram.
 - <a href="https://t.me/ivanzabelin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
