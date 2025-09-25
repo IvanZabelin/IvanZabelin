@@ -1,6 +1,6 @@
 # 👋Yo!
 
-I’m Ivan, your go-to Python badass—crafting killer web apps, chatbots, and slick automations. Think data’s scary? I’ll tame it. ML? Bring it on.
+I’m Ivan, your go-to Python badass-crafting killer web apps, chatbots, and slick automations. Think data’s scary? I’ll tame it. ML? Bring it on.
 
 ## *Welcome to my repository!*
 
